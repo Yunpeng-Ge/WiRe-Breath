@@ -1,2 +1,2 @@
 # WiRe-Breath
-This repository list some data of our project for help understanding our work and further comparasion. More data will be gradually collected and gradually made public in the future.
+This repository lists some data from our project to help understand our work and for further comparison. For any researchers who need the dataset or wish to perform benchmark comparisons, please contact yunpeng.ge@connect.polyu.hk to obtain our data.
