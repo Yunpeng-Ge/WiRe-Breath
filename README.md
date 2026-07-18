@@ -117,6 +117,3 @@ Download the dataset from the
 
 This dataset is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). See `LICENSE` for details.
 
----
-
-For further details regarding our experimental setup and performance insights, stay tuned for the official publication of our paper. We’d be happy to discuss potential research collaborations or answer any general questions you may have.
