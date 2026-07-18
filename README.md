@@ -108,6 +108,11 @@ If you use this dataset, please cite:
 }
 ```
 
+## Download
+
+Download the dataset from the
+[latest GitHub release](https://github.com/Yunpeng-Ge/WiRe-Breath/releases/latest).
+
 ## License
 
 This dataset is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). See `LICENSE` for details.
